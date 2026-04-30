@@ -1,0 +1,68 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "title": "IEEE Day 2024 Celebration",
+      "image_url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop",
+      "category": "events",
+      "date": "2024-10-01",
+      "description": "Annual IEEE Day celebration with students and faculty"
+    },
+    {
+      "id": 2,
+      "title": "AI Workshop Session",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
+      "category": "workshops",
+      "date": "2024-09-15",
+      "description": "Hands-on AI and Machine Learning workshop"
+    },
+    {
+      "id": 3,
+      "title": "WIE Leadership Summit",
+      "image_url": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=800&h=600&fit=crop",
+      "category": "wie",
+      "date": "2024-08-20",
+      "description": "Women in Engineering leadership development program"
+    },
+    {
+      "id": 4,
+      "title": "Coding Competition",
+      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=800&h=600&fit=crop",
+      "category": "competitions",
+      "date": "2024-07-25",
+      "description": "Computer Society coding marathon event"
+    },
+    {
+      "id": 5,
+      "title": "Tech Innovation Fair",
+      "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=600&fit=crop",
+      "category": "events",
+      "date": "2024-06-30",
+      "description": "Student project showcase and innovation fair"
+    },
+    {
+      "id": 6,
+      "title": "Robotics Workshop",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=600&fit=crop",
+      "category": "workshops",
+      "date": "2024-05-18",
+      "description": "Hands-on robotics and automation workshop"
+    },
+    {
+      "id": 7,
+      "title": "Executive Committee Meeting",
+      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&h=600&fit=crop",
+      "category": "meetings",
+      "date": "2024-04-10",
+      "description": "Monthly executive committee planning session"
+    },
+    {
+      "id": 8,
+      "title": "Industry Expert Talk",
+      "image_url": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&h=400&fit=crop",
+      "category": "talks",
+      "date": "2024-03-22",
+      "description": "Guest lecture by industry professionals"
+    }
+  ]
+}

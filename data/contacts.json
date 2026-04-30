@@ -1,0 +1,39 @@
+{
+  "contact_info": {
+    "address": "Guru Tegh Bahadur Institute of Technology, G-8 Area, Rajouri Garden, New Delhi - 110064",
+    "phone": "+91-11-25434343",
+    "email": "ieee@gtbit.edu.in",
+    "social_media": {
+      "facebook": "https://facebook.com/ieeegtb4cec",
+      "twitter": "https://twitter.com/ieeegtb4cec", 
+      "linkedin": "https://linkedin.com/company/ieee-gtb4cec",
+      "instagram": "https://instagram.com/ieeegtb4cec"
+    },
+    "office_hours": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "location_coordinates": {
+      "lat": 28.6465,
+      "lng": 77.1208
+    }
+  },
+  "key_contacts": [
+    {
+      "name": "Dr. Rajesh Kumar",
+      "position": "Faculty Advisor",
+      "email": "rajesh.kumar@gtbit.edu.in",
+      "phone": "+91-11-25434344"
+    },
+    {
+      "name": "Arjun Sharma", 
+      "position": "Chairperson",
+      "email": "arjun.sharma@student.gtbit.edu.in",
+      "phone": "+91-98765-43210"
+    },
+    {
+      "name": "Priya Patel",
+      "position": "Vice-Chairperson", 
+      "email": "priya.patel@student.gtbit.edu.in",
+      "phone": "+91-98765-43211"
+    }
+  ],
+  "submitted_contacts": []
+}

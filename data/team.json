@@ -1,0 +1,58 @@
+{
+  "faculty": [
+   
+    {
+      "id": 1,
+      "name": "Yogesh Kumar",
+      "position": "Faculty Advisor",
+      "department": "Computer Science & Engineering",
+      "email": "rajesh.kumar@gtbit.edu.in",
+      "image_url": "img/Team/Yogesh.jpeg",
+      "bio": "Yogesh Kumar is a Professor in the Department of ECE with over 15 years of experience in research and academia.",
+      "specialization": "Artificial Intelligence, Machine Learning"
+    }
+  ],
+  "executive_committee": [
+    {
+      "id": 1,
+      "name": " Lipika Sharma ",
+      "position": "Chairperson",
+      "year": "Final Year B.Tech CSE",
+      "email": "arjun.sharma@student.gtbit.edu.in",
+      "image_url": "img/Team/Lipika.jpg",
+      "bio": "Leading the student branch with passion for technology and innovation.",
+      "linkedin": "https://www.linkedin.com/in/lipika-sharma-4205a0350/"
+    },
+    {
+      "id": 2,
+      "name": "Chirag",
+      "position": "Vice-Chairperson",
+      "year": "Third Year B.Tech CSE AIML",
+      "email": "priya.patel@student.gtbit.edu.in",
+      "image_url": "img/Team/Chirag.jpg",
+      "bio": "Dedicated to promoting IEEE activities and student engagement.",
+      "linkedin": "https://www.linkedin.com/in/chirag-kumar-a15155276/"
+    },
+
+    {
+      "id": 4,
+      "name": "Aayush Mehta",
+      "position": "Treasurer",
+      "year": "Final Year B.Tech CSE",
+      "email": "sneha.gupta@student.gtbit.edu.in",
+      "image_url": "img/Team/Aaush.jpg",
+      "bio": "Handling financial aspects and budget management.",
+      "linkedin": "https://www.linkedin.com/in/aayush-mehta-481061286/"
+    },
+    {
+      "id": 5,
+      "name": "Rishi Bajaj",
+      "position": "Webmaster",
+      "year": "Third Year B.Tech CSE AIML",
+      "email": "karan.mehta@student.gtbit.edu.in",
+      "image_url": "img/Team/Rishi.PNG",
+      "bio": "Leading technical workshops and programming events.",
+      "linkedin": "https://www.linkedin.com/in/rishi-bajaj-98a34430b/"
+    }
+  ]
+}

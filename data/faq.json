@@ -1,0 +1,64 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What is IEEE GTB4CEC Student Branch?",
+      "answer": "IEEE GTB4CEC Student Branch is the official IEEE student chapter at Guru Tegh Bahadur 4th Centenery Engineering College. We organize technical events, workshops, and provide networking opportunities for engineering students.",
+      "category": "general"
+    },
+    {
+      "id": 2,
+      "question": "How can I become a member of IEEE GTB4CEC?",
+      "answer": "To become a member, you need to be a student at GTB4CEC and pay the annual IEEE membership fee. You can apply through contact any executive committee member.",
+      "category": "membership"
+    },
+    {
+      "id": 3,
+      "question": "What are the benefits of IEEE membership?",
+      "answer": "IEEE membership provides access to technical resources, networking opportunities, career guidance, exclusive workshops, conference discounts, and professional development programs.",
+      "category": "membership"
+    },
+    {
+      "id": 4,
+      "question": "How often are events organized?",
+      "answer": "We organize events regularly throughout the academic year including monthly technical workshops, quarterly competitions, and annual celebrations like IEEE Day.",
+      "category": "events"
+    },
+    {
+      "id": 5,
+      "question": "Can I participate in events without being a member?",
+      "answer": "Some events are open to all students, while others are exclusive to IEEE members. Check individual event details for specific requirements.",
+      "category": "events"
+    },
+    {
+      "id": 6,
+      "question": "What is the IEEE Computer Society Chapter?",
+      "answer": "The Computer Society Chapter focuses on advancing computer science and engineering through technical activities, programming competitions, and software development workshops.",
+      "category": "chapters"
+    },
+    {
+      "id": 7,
+      "question": "What is the WIE Affinity Group?",
+      "answer": "WIE (Women in Engineering) promotes women engineers and scientists, provides mentorship opportunities, and inspires girls to pursue careers in engineering and technology.",
+      "category": "chapters"
+    },
+    {
+      "id": 8,
+      "question": "How can I get involved in organizing events?",
+      "answer": "You can join various committees like Technical, Event Management, or Public Relations. Contact the executive committee to express your interest and availability.",
+      "category": "involvement"
+    },
+    {
+      "id": 9,
+      "question": "Are there any scholarship opportunities?",
+      "answer": "Yes, IEEE offers various scholarships and funds for the Technical Projects of students. ",
+      "category": "scholarships"
+    },
+    {
+      "id": 10,
+      "question": "How can I contact the student branch?",
+      "answer": "You can reach us through our official email, visit our office during working hours, or connect with us on social media platforms. Contact details are available on our website.",
+      "category": "contact"
+    }
+  ]
+}

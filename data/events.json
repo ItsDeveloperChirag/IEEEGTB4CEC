@@ -1,0 +1,53 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "IEEE Day 2025 Celebration",
+      "description": "Join us in celebrating IEEE Day with exciting workshops, tech talks, and networking opportunities. Learn about the latest innovations in technology and connect with industry experts.",
+      "date": "2025-10-01",
+      "time": "10:00 AM",
+      "location": "GTB4CEC Auditorium",
+      "image_url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=400&fit=crop",
+      "is_upcoming": false,
+      "category": "celebration",
+      "registration_required": true
+    },
+    {
+      "id": 2,
+      "title": "Call for Applications – Executive Committee 2026-27",
+      "description": "IEEE GTB4CEC Student Branch is inviting applications for the Executive Committee (2026-27).",
+      "date": "2026-03-27",
+      "time": "10:00 PM",
+      "image_url": "img/event/registration.jpeg",
+      "is_upcoming": false,
+      "category": "Application",
+      "registration_required": true,
+      "registration_link": "https://forms.gle/aSrHWQWnxcVCicf86"
+    },
+    {
+      "id": 3,
+      "title": "WIE celebration",
+      "description": "Celebrate the achievements of women in engineering and technology with inspiring talks, networking opportunities, and interactive sessions.",
+      "date": "2026-04-04",
+      "time": "10:00 AM",
+      "location": "Computer Center",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=400&fit=crop",
+      "is_upcoming": false,
+      "category": "workshop",
+      "registration_required": true
+    },
+    
+    {
+      "id": 5,
+      "title": "Cybersecurity Awareness Seminar",
+      "description": "Learn about the latest cybersecurity threats, best practices for digital security, and career opportunities in cybersecurity field.",
+      "date": "2025-08-30",
+      "time": "3:00 PM",
+      "location": "Seminar Hall",
+      "image_url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&h=400&fit=crop",
+      "is_upcoming": false,
+      "category": "seminar",
+      "registration_required": false
+    }
+  ]
+}

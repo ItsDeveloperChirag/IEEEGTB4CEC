@@ -1,0 +1,79 @@
+{
+  "chapter_info": {
+    "name": "IEEE Computer Society Chapter",
+    "description": "The IEEE Computer Society Chapter at GTB4CEC is dedicated to advancing the theory, practice, and application of computer and information processing science and technology.",
+    "mission": "To foster innovation in computer science and engineering through technical activities, professional development, and community engagement.",
+    "vision": "To be the leading student chapter in promoting excellence in computing education and research.",
+    "established": "2025",
+    "color_theme": "#1f4e79"
+  },
+  "leadership": [
+    {
+      "id": 1,
+      "name": "Navneet Singh ",
+      "position": "Chapter Chair",
+      "year": "Final Year B.Tech CSE",
+      "email": "vikash.kumar@student.gtbit.edu.in",
+      "image_url": "img/Team/Navneet.jpg",
+      "bio": "Leading Computer Society initiatives with focus on software development and AI research.",
+      "linkedin": "https://www.linkedin.com/in/navneetsingh-look/"
+    },
+    {
+      "id": 2,
+      "name": "Kavvya Bisht",
+      "position": "Vice-Chair",
+      "year": "Second Year B.Tech CSE",
+      "email": "riya.agarwal@student.gtbit.edu.in",
+      "image_url": "img/Team/Kavvya.jpg",
+      "bio": "Spearheading internal operations and member engagement.",
+      "linkedin": "https://www.linkedin.com/in/kavvya-bisht-b37415377/"
+    },
+    {
+      "id": 3,
+      "name": "Kashvi Arora",
+      "position": " Secretary",
+      "year": "Third Year B.Tech IT",
+      "email": "amit.verma@student.gtbit.edu.in",
+      "image_url": "img/Team/Kashvi.jpeg",
+      "bio": "The backbone of chapter communications and event logistics.",
+      "linkedin": "https://www.linkedin.com/in/kashvi15/"
+    },
+    {
+      "id": 4,
+      "name": "Adarsh Pandey",
+      "position": " Treasurer",
+      "year": "Final Year B.Tech CSE",
+      "email": "amit.verma@student.gtbit.edu.in",
+      "image_url": "img/Team/Adarsh.png",
+      "bio": "Managing the chapter's financial resources and sponsorship outreach.",
+      "linkedin": "https://www.linkedin.com/in/beadarshh/"
+    },
+    
+    {
+      "id": 6,
+      "name": "Hardik Arora",
+      "position": " Webmaster",
+      "year": "Third Year B.Tech IT",
+      "email": "amit.verma@student.gtbit.edu.in",
+      "image_url": "img/Team/Hardik.JPG",
+      "bio": "Maintaining the chapter's digital identity and technical platforms.",
+      "linkedin": "https://www.linkedin.com/in/hardik-arora-6060bb2b2/"
+    }
+  ],
+  "activities": [
+    {
+      "title": "Events & Workshops",
+      "description": "Regular programming challenges to enhance problem-solving skills",
+      "frequency": "Monthly"
+    },
+    {
+      "title": "Hackathons",
+      "description": "Organizing and participating in various hackathons",
+      "frequency": "Quarterly"
+    }
+  ],
+  "achievements": [
+    "Compeleted IEEE Xtreme coding competition with our student branch",
+    "PitchCraft and PitchCraft 2.0 - Our flagship events that have garnered significant participation and recognition"
+  ]
+}
