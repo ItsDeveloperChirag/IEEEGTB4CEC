@@ -1,0 +1,78 @@
+{
+  "chapter_info": {
+    "name": "IEEE Women in Engineering (WIE) Affinity Group",
+    "description": "IEEE WIE at GTB4CEC is dedicated to promoting women engineers and inspiring girls around the world to follow their academic interests in a career in engineering and science.",
+    "mission": "To facilitate the recruitment and retention of women in technical disciplines globally by promoting women engineers and inspiring girls around the world to follow their academic interests in engineering and science.",
+    "vision": "A vibrant community of women in engineering and technology, supporting each other to reach their full potential.",
+    "established": "2019",
+    "color_theme": "#8e44ad"
+  },
+  "leadership": [
+    {
+      "id": 1,
+      "name": "Vidhi Chauhan",
+      "position": "WIE Chair",
+      "year": "Final Year B.Tech CSE",
+      "email": "meera.sharma@student.gtbit.edu.in",
+      "image_url": "img/Team/Vidhi.jpg",
+      "bio": "Advocating for women in engineering and leading initiatives for gender equality in STEM.",
+      "linkedin": "https://www.linkedin.com/in/vidhi-chauhan-868435297/"
+      
+    },
+    {
+      "id": 2,
+      "name": "Kiranpal Kaur",
+      "position": "Vice-Chair",
+      "year": "Third Year B.Tech CSE",
+      "email": "pooja.jain@student.gtbit.edu.in",
+      "image_url": "img/Team/Kiranpal.jpg",
+      "bio": "Passionate about promoting diversity in technology and organizing mentorship programs.",
+      "linkedin": "https://www.linkedin.com/in/kiranpalkaur27/"
+    },
+    {
+      "id": 3,
+      "name": "Sharad",
+      "position": "Secretary",
+      "year": "Third Year B.Tech CSE",
+      "email": "kavya.singh@student.gtbit.edu.in",
+      "image_url": "img/Team/Sharad.jpg",
+      "bio": "Managing communications and coordinating WIE events and workshops.",
+      "linkedin": "https://www.linkedin.com/in/sharad--kumar/"
+      
+    },
+    {
+      "id": 4,
+      "name": "Lakshya",
+      "position": "Webmaster",
+      "year": "Third Year B.Tech CSE",
+      "email": "kavya.singh@student.gtbit.edu.in",
+      "image_url": "img/Team/Lakshya.jpg",
+      "bio": "Managing communications and coordinating WIE events and workshops.",
+      "linkedin": "https://www.linkedin.com/in/lakshya-sharma-b67b9534a/"
+      
+    }
+  ],
+  "programs": [
+    {
+      "title": "Women in Tech Mentorship Program",
+      "description": "Connecting female students with industry professionals for guidance and career development",
+      "frequency": "April 2026"
+    },
+    {
+      "title": "Girls Self Defense Program",
+      "description": "Empowering female students with self-defense skills and confidence-building.",
+      "frequency": "April 2026"
+    }
+  ],
+  "achievements": [
+    
+    "Successfully mentored 100+ female engineering students",
+    "Organized 8+ workshops on women empowerment in STEM"
+  ],
+  "statistics": {
+    "active_members": 100,
+    "workshops_conducted": 8,
+    "students_mentored": 500,
+    "scholarships_awarded": 100
+  }
+}
